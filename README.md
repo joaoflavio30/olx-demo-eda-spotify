@@ -1,4 +1,4 @@
-# Spotify User Behavior Analysis Project
+# Análise de comportamento do usuário Spotify
 
 Este projeto visa analisar o comportamento dos usuários do Spotify, utilizando dados disponíveis no Kaggle. Implementamos a metodologia OKR (Objectives and Key Results) para direcionar o esforço e mensurar o sucesso das iniciativas.
 
