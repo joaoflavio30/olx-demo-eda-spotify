@@ -1,3 +1,8 @@
+# Dashboard
+
+[Visualizar Projeto Power BI](https://app.powerbi.com/view?r=eyJrIjoiZGQ4Zjg2NDgtNDM5YS00ZThlLTkyNjAtZGU0ZGViMGMzMTBiIiwidCI6IjE4ZWUwZjc0LWMzOWEtNDAyOC05MzVmLTJiOTlhOTc3YzI4OCJ9)
+
+
 # Análise de comportamento do usuário Spotify
 
 Este projeto visa analisar o comportamento dos usuários do Spotify, utilizando dados disponíveis no Kaggle. Implementamos a metodologia OKR (Objectives and Key Results) para direcionar o esforço e mensurar o sucesso das iniciativas.
